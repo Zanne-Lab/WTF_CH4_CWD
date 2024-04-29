@@ -2,6 +2,8 @@
 
 Data for: The problem with estimating global termite emissions
 
+[![DOI](https://zenodo.org/badge/790478324.svg)](https://zenodo.org/doi/10.5281/zenodo.11089743)
+
 
 
 ## This repository contains the data and analyses used for the manuscript 'The problem with estimating global termite emissions'.
